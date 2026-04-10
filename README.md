@@ -1,5 +1,7 @@
 # 🚀 AutoMPP
 
+Contract Addres offcial : BEaBCm9ruBnpeyrBssvibHaAminqcrD1mXvJrkPNpump
+
 **AutoMPP** automates crypto strategies with precision. Powered by smart systems, real-time signals, and optimized digital asset performance.
 
 ---
